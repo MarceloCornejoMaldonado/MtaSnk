@@ -6,8 +6,8 @@ addEventHandler("onClientResourceStart",resourceRoot,
 		createTitan("Colosal",0,0,5)
 		--Houses 11427 , 3641 , 3642
 		createWall(0,0,0,20,100) --Wall Maria
-		createWall(0,0,0,20,250) --Wall Rose
-		createWall(0,0,0,20,750) --Wall Shina
+		createWall(0,0,0,20,200) --Wall Rose
+		createWall(0,0,0,20,600) --Wall Shina
 		--createSubtitle("bhbhbh",true)
 		--titan();
 	end
