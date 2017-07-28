@@ -1,0 +1,52 @@
+<meta>
+	<info name="AOT" author="Marcelo" type="misc" version="1.0.0"/>
+	<!-- ━━━━━━━━━Client━━━━━━━━━━ -->
+
+	<script src="Client/ClientMain.lua" type="client"/>
+	<script src="Client/SkinsReplace.lua" type="client"/>
+	<script src="Client/Walls.lua" type="client"/>
+	<script src="Client/Huds.lua" type="client"/>
+	<script src="Client/Peds.lua" type="client"/>
+	<script src="Client/Eren.lua" type="client"/>
+	<script src="Client/Music.lua" type="client"/>
+	<script src="Client/Subtitles.lua" type="client"/>
+	<!--<script src="Client/commands.lua" type="client"/>-->
+	<script src="Client/Money.lua" type="client"/>
+	<!-- ━━━━━━━━━━Server━━━━━━━━━ -->
+
+	<script src="Server/ServerMain.lua" type="server"/>
+
+	<!-- ━━━━━━━━━━━Skin━━━━━━━━━ -->
+
+	<file src="Skins/Eren Jaeger/ErenJaeger.txd"/>
+	<file src="Skins/Eren Jaeger/ErenJaeger.dff"/>
+
+	<file src="Skins/Mikasa Ackerman/MikasaAckerman.txd"/>
+	<file src="Skins/Mikasa Ackerman/MikasaAckerman.dff"/>
+
+	<file src="Skins/Armin Arlelt/ArminArlelt.txd"/>
+	<file src="Skins/Armin Arlelt/ArminArlelt.dff"/>
+
+	<file src="Skins/Jean Kirschtein/JeanKirschtein.txd"/>
+	<file src="Skins/Jean Kirschtein/JeanKirschtein.dff"/>
+
+	<file src="Skins/Irvin Smith/IrvinSmith.txd"/>
+	<file src="Skins/Irvin Smith/IrvinSmith.dff"/>
+	
+	<file src="Skins/Titan Colossal/ColossalTitan.txd"/>
+	<file src="Skins/Titan Colossal/ColossalTitan.dff"/>
+
+	<file src="Skins/Titan Blindado/ArmoredTitan.txd"/>
+	<file src="Skins/Titan Blindado/ArmoredTitan.dff"/>
+
+	<file src="Skins/Eren Titan Form/ErenTitan.txd"/>
+	<file src="Skins/Eren Titan Form/ErenTitan.dff"/>
+
+	<file src="Skins/Female Titan/FemaleTitan.txd"/>
+	<file src="Skins/Female Titan/FemaleTitan.dff"/>
+
+	<!-- ━━━━━━━━━━━Sounds━━━━━━━━━ -->
+
+	<file src="Sounds/Sfx/ToTitan.wav" />
+	<file src="Sounds/Music/SNKO.wav" />
+</meta>
